@@ -2,6 +2,7 @@
 Solution 
 
 This repository contains the solution for the HurryApp Hackathon 3 Candidate Quiz
+
 ```python
 def find_missing_ranges(frames: list[int]) -> dict:
     if not frames:
@@ -63,7 +64,8 @@ def find_missing_ranges(frames: list[int]) -> dict:
 
 ## How to Run
 
-The solution is a standard Python script. You can run it directly:
+The test example in Python script and Jupyter Notebook
+The solution Python script. You can run it directly:
 
 ```bash
 python solution.py
