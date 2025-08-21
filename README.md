@@ -2,7 +2,7 @@
 Solution 
 
 This repository contains the solution for the HurryApp Hackathon 3 Candidate Quiz
-
+```python
 def find_missing_ranges(frames: list[int]) -> dict:
     if not frames:
         return {
