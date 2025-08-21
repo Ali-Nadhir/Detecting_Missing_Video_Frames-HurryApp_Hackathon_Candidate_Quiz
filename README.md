@@ -59,6 +59,7 @@ def find_missing_ranges(frames: list[int]) -> dict:
 4. **Only one frame received** – a single frame in the list
 5. **All frames missing except the last** – only the last frame is present, all prior frames missing
 
+```
 ## How to Run
 
 The solution is a standard Python script. You can run it directly:
