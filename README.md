@@ -65,7 +65,7 @@ def find_missing_ranges(frames: list[int]) -> dict:
 ## How to Run
 
 The test example in Python script and Jupyter Notebook
-The solution Python script. You can run it directly:
+You can run the solution Python script:
 
 ```bash
 python solution.py
